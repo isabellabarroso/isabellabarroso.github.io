@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name='description' content='Isa Barroso | Portfolio'>
+    <meta name='keywords'
+          content='Isa Barroso, Isabella Barroso, Ethical Technologist, Technologist, PM, Product Manager, Product Owner, Project Manager, Product Specialist, User Experience, Agile, Gerente de Produto, Gerente de Programa, ética'>
+    <meta name='author' content='Isabella Barroso'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <title>Isa Barroso Portfolio</title>
+    <link href="assets/css/main.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main class="main">
+        <div class="container">
+            <h2 class="title">Isabella Barroso - Ethical Technologist</h2>
+            <h4> <a target="_blank" href="https://isabellabarroso.github.io/">English</a> / <a target="_blank" href="https://isabellabarroso.github.io/portuguese">Português</a> 
+            </h4>
+            <h4>Olá ➝
+                <a target="_blank" href="https://twitter.com/bruja_cyborg">Twitter</a> /
+                <a target="_blank" href="https://www.linkedin.com/in/isabellabarroso/">Linkedin</a>
+            </h4>
+            <img class="avatar" src="assets/img/avatar.jpeg">
+            <div>
+                <section>
+                    <p>
+                        Isa é primeiramente uma Tecnóloga Ética. Ela faz perguntas incômodas, como: "escalar para quê? E até onde?" E procura soluçoes sustentáveis e realistas. Além disso, ela também é uma jornalista brasileira, pesquisadora independente, tradutora e Gerente de Produto
+                            <a target="_blank" href="https://www.thoughtworks.com/">(ex-Thoughtworker)</a>
+                        com uma década de experiência e formação em design de interação. 
+                    </p>
+                    <p>
+                        Ela gerenciou diversas equipes ágeis distribuídas em diferentes contextos de negócios. Além disso, trabalhou na indústria de tecnologia e no setor internacional sem fins lucrativos como Gerente de Programas para a América Latina e o Caribe
+                            <a target="_blank" href="https://meedan.com/project/latin-america">(Meedan)</a>.
+                    </p>
+                    <p>
+                        O seu foco gira em torno de fornecer apoio a iniciativas regionais e inter-regionais que visam estruturar e amplificar o impacto social na intersecção da informação, sociedade, tecnologia e das comunidades feministas em Abya Yala.
+                    </p>
+                </section>
+                <section>
+                    <h4>Outros trabalhos:</h4>
+                     <div>
+                            <p style="margin-bottom: 0;">
+                                <i>Training/Workshops</i>
+                            </p>
+                            <p style="margin: 0;">
+                                <a target="_blank" href="https://docs.google.com/presentation/d/19gODgDrSoAMg7QFcTl-7RHvjYc9Ych-uYEwMa9NqTW8/edit?usp=share_link">
+                                    Caça as Bruxas Digital - Treinamento em Segurança Digital para Ativistas Brasileiros
+                                </a>
+                            </p>
+                            <p style="margin: 0;">
+                                treinamento destinado a jornalistas e ativistas como resposta ao golpe brasileiro e mantido atualizado durante o governo Bolsonaro.
+                            </p>  
+                        </div> 
+                    <div>
+                        <p><b>2023</b></p>
+                        <div>
+                            <p style="margin-bottom: 0;">
+                                <i>Tradutora</i>
+                            </p>
+                            <p style="margin: 0;">
+                                <a target="_blank" href="https://www.phenomenalworld.org/analysis/the-agribusiness-pact/">
+                                    O Pacto do Agronegócio no Brasil
+                                </a>
+                            </p>
+                            <p style="margin: 0;">
+                                para Phenomenal World, leitura recomendada pelo
+                                <a target="_blank" href="https://www.ft.com/content/910feff4-0c87-44bb-87ac-1351b9bf76fe">
+                                    Financial Times
+                                </a> 
+                            </p>  
+                        </div> 
+                        <div>
+                            <p style="margin-bottom: 0;">
+                                <i>Fellow</i>
+                            </p>
+                            <p style="margin: 0;">
+                                <a target="_blank" href="https://school.logicmag.io/">Segunda turma da Escola de Ação Coletiva (Collective Action School)</a>
+                    
+                            </p>
+                        </div> 
+                        <div>
+                            <p style="margin-bottom: 0;">
+                                <i>Co-creadora</i>
+                            </p>
+                            <p style="margin: 0;">
+                                <a target="_blank" href="https://www.rightscon.org">RightsCon</a>
+                            2023: Workshop “Reimaginação Radical: projetando para corpos dissidentes uma experiência livre de assédio em espaços criptografados”
+                            </p>
+                        </div> 
+                    </div>
+    
+                    <div>
+                        <p><b>2022</b></p>
+                        <div>
+                            <p style="margin-bottom: 0;">
+                                <i>Escritora/Pesquisadora</i>
+                            </p>
+                            <p style="margin: 0;">
+                                <a href="https://futuress.org/stories/we-are-not-safe/">
+                                    "Não estamos seguros:" Censura e trauma algorítimico nas plataformas
+                                </a>
+                            </p>
+                            <p style="margin: 0;">
+                                publicado pela revista de design feminista
+                                <a target="_blank" href="https://futuress.org/">
+                                    Futuress
+                                </a> como Fellow durante o programa 
+                                <a target="_blank" href="https://futuress.org/learning/coding-resistance/">
+                                    Code Resistance
+                                </a>, trabalho selecionado para o workshop
+                                <a target="_blank" href="https://datasociety.net/announcements/2021/10/28/the-social-life-of-algorithmic-harms/">
+                                    "A Vida Social dos Danos Algorítmicos" (The Social Life of Algorithmic Harms)
+                                </a> workshop de escrita, da organizaçao de pesquisa independente, Data & Society.                        
+                            </p>
+                        </div>
+                        <div>
+                            <p style="margin-bottom: 0;">
+                                <i>Editora/Creadora</i>
+                            </p>
+                            <p style="margin: 0;">
+                                Podcast 
+                                <a target="_blank" href="https://linktr.ee/gardiasdaresistencia">Guardiãs da Resistência (Guardians of The Resistance)</a>
+                            </p>
+                        </div> 
+                    </div>
+    
+                    <div>
+                        <p><b>2021</b></p>
+                        <div>
+
+                             <div>
+                            <p style="margin-bottom: 0;">
+                                <i>Tradutora</i>
+                            </p>
+                            <p style="margin: 0;">
+                                <a target="_blank" href="https://www.academia.edu/84235589/Mudar_as_perguntas_Ritmo_escala_contexto_pt_">
+                                    Cambiar las preguntas. Ritmo, escala, contexto.
+                                </a>
+                            </p>
+                            <p style="margin: 0;">
+                                obra de Nicolás Pradilla, traduzida para o português para os “Grupos de Leitura e Tradução em Trabalho Editorial Independente”, organizados por
+                                <a target="_blank" href="https://leituraetraducao.com.br">
+                                    tijuana, em parceria com a plataforma par(ent)esis.
+                                </a> 
+                            </p>  
+                        </div>
+                        <div>
+                            <p style="margin-bottom: 0;">
+                                <i>Escritora/Pesquisadora</i>
+                            </p>
+                            <p style="margin: 0;">
+                                <a target="_blank" href="https://globalvoices.org/2021/05/29/colombians-save-the-evidence-as-they-denounce-social-media-censorship-of-protests/">
+                                    Colombianos ‘salvam as evidências’ ao denunciar a censura dos protestos nas redes sociais
+                                </a>
+                            </p>
+                            <p style="margin: 0;">
+                                publicado por
+                                <a target="_blank" href="https://globalvoices.org/-/world/latin-america,north-america,caribbean/">
+                                    Global Voices
+                                </a> 
+                            </p>  
+                        </div> 
+                    </div>
+    
+                    <div>
+                        <p><b>2020</b></p>
+                        <div>
+                            <p style="margin-bottom: 0;">
+                                <i>Escritora/Pesquisadora</i>
+                            </p>
+                            <p style="margin: 0;">
+                                <a target="_blank" href="https://meedan.com/blog/covid-19-in-brazil-memory-as-a-form-of-resistance/">
+                                    COVID-19 no Brasil: memória como forma de resistência
+                                </a>
+                            </p>
+                            <p style="margin: 0;">
+                               publicado por
+                                <a target="_blank" href="https://meedan.com/blog/covid-19-in-brazil-memory-as-a-form-of-resistance/">
+                                    Meedan
+                                </a> 
+                            </p>  
+                        </div>
+                        <div>
+                            <p style="margin-bottom: 0;">
+                                <i>Editora/Creadora</i>
+                            </p>
+                            <p style="margin: 0;">
+                                <a target="_blank" href="https://meedan.com/post/launching-the-check-global-zine-viral-politics-tales-from-the-pandemia">
+                                    Política viral: Histórias da Pandemia
+                                </a>
+                            </p>
+                            <p style="margin: 0;">
+                                publicado por 
+                                <a target="_blank" href="https://meedan.com/post/launching-the-check-global-zine-viral-politics-tales-from-the-pandemia">
+                                    Meedan
+                                </a> 
+                            </p>  
+                        </div> 
+                        <div>
+                            <p style="margin-bottom: 0;">
+                                <i>Organizadora e Facilitadora</i>
+                                <p style="margin: 0;">
+                                    <a target="_blank" href="https://www.rightscon.org/program-2020/">
+                                        RightsCon
+                                    </a>
+                                    2020: 
+                                    <a target="_blank" href="https://meedan.com/event/rightscon-2020-recordkeepers-of-the-resistance">
+                                        Recordkeepers of the Resistance
+                                    </a> 
+                                </p> 
+                            </p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <section>
+                <div>
+                    <img class="images" src="assets/img/viral_politics.png" />
+                    <img class="images" src="assets/img/viral_politics_content.png" />
+                </div>
+                <div>
+                    <img class="images" src="assets/img/podcast.png" />
+                    <img class="images" src="assets/img/futureness.png" />
+                </div>
+            </section>
+        </div>
+    </main>
+</body>
+</html>
