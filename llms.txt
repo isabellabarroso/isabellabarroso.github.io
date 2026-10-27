@@ -1,0 +1,29 @@
+# Isabella Barroso
+
+> Brazilian program and project manager based in Lisbon, Portugal, with 10 years of experience delivering grant-funded programs, grantmaking, partnerships and open-source projects. Currently Senior Project Manager at The Tor Project. Seeking program manager, project manager, program lead or delivery roles in climate and environmental work.
+
+- Location: Lisbon, Portugal. Open to remote (Europe or worldwide) and Lisbon-based roles.
+- Languages: Portuguese (native), English (fluent), Spanish (working proficiency).
+- Focus areas: climate tech and open data; nature-based solutions and regeneration; climate justice and grassroots funding; sustainability programs and partnerships.
+- Strengths: program delivery (workplans, milestones, risk), grantmaking and grantee management, budgets and budget narratives, funder reporting (including Sida), partnerships across 15+ countries, agile and product management.
+- Contact: isabellabarroso@gmail.com
+
+## Main pages
+
+- [Portfolio (English)](https://isabellabarroso.github.io/): about, experience, selected work, education
+- [Portfolio (Portuguese)](https://isabellabarroso.github.io/index_pt.html): same content in Portuguese
+- [CV in Markdown](https://isabellabarroso.github.io/cv.md): full CV as plain text
+- [CV (PDF)](https://isabellabarroso.github.io/assets/Isabella_Barroso_CV.pdf): one-page CV
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/isabellabarroso/)
+- [GitLab (Tor Project)](https://gitlab.torproject.org/bella)
+
+## Selected work
+
+- [Check Global COVID-19 micro-grant fund](https://meedan.org/post/25-grassroots-projects-awarded-through-the-check-global-covid-19-fund): ran the Latin America call (47 applications, 7 grassroots initiatives funded)
+- [Viral Politics: Tales from the Pandemia](https://meedan.com/post/launching-the-check-global-zine-viral-politics-tales-from-the-pandemia): creator and editor
+- ["We Are Not Safe:" Platform Censorship and Trauma](https://futuress.org/stories/we-are-not-safe/): writer and researcher, Futuress
+- [Colombians 'save the evidence'](https://globalvoices.org/2021/05/29/colombians-save-the-evidence-as-they-denounce-social-media-censorship-of-protests/): Global Voices
+- [The Agribusiness Pact in Brazil](https://www.phenomenalworld.org/analysis/the-agribusiness-pact/): translator, Phenomenal World

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://isabellabarroso.github.io/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://isabellabarroso.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://isabellabarroso.github.io/index_pt.html"/>
+  </url>
+  <url>
+    <loc>https://isabellabarroso.github.io/index_pt.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://isabellabarroso.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://isabellabarroso.github.io/index_pt.html"/>
+  </url>
+  <url><loc>https://isabellabarroso.github.io/cv.md</loc><lastmod>2026-10-27</lastmod></url>
+  <url><loc>https://isabellabarroso.github.io/llms.txt</loc><lastmod>2026-10-27</lastmod></url>
+</urlset>

@@ -1,0 +1,5 @@
+# Everyone, including AI assistants and search engines, is welcome to read this site.
+User-agent: *
+Allow: /
+
+Sitemap: https://isabellabarroso.github.io/sitemap.xml
